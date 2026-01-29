@@ -1,7 +1,6 @@
 # TapetenLickerDecompiler (FBMOD → FBPROJECT)
 
-![](image.png)<img width="1010" height="723" alt="image" src="https://github.com/user-attachments/assets/87be994e-829a-4114-b0f5-02c53631634a" />
-
+![](image.png)
 
 A small Windows tool that converts **Frosty `.fbmod`** files into **`.fbproject`** format so projects can be opened/inspected in a Frosty-based workflow.
 
