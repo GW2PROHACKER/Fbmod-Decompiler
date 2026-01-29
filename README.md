@@ -1,4 +1,4 @@
-# TapetenLickerDecompiler (FBMOD → FBPROJECT)
+# Decompiler (FBMOD → FBPROJECT)
 
 ![](image.png)
 
